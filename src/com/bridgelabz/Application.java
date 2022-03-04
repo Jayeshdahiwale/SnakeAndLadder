@@ -1,6 +1,6 @@
 /// My Game conditions
 ///Player 1 or player 2 will not enter the game unless and until they get 1 or 6 on dice
-///If someone get 1 or 6 he will roll the dice once again
+///If someone get 1 or 6 at very first instance he enters the game and he will roll the dice once again
 ///If any one of the player do not want to roll the dice that player will be considered as he quit the game.And another player will win the game
 ///If any player is on 96 and he got ladder such that he got (5/6) on dice then he can't move as score reaches greater than 100
 ///Hoorray ...Chill and enjoy the game
