@@ -4,7 +4,7 @@
 ///If any one of the player do not want to roll the dice that player will be considered as he quit the game.And another player will win the game
 ///If any player is on 96 and he got ladder such that he got (5/6) on dice then he can't move as score reaches greater than 100
 ///Hoorray ...Chill and enjoy the game
-
+///If you got the snake and because of it if player socre is getting 0 or less than 0 then player score is set to be equal to 1
 
 
 
